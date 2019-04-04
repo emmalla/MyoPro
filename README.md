@@ -1,0 +1,2 @@
+# MyoPros449
+EMG Signal Processing for Control of External Device. We plan to record and interpret EMG signals (type/magnitude?) - most likely from the bicep - and use them to control a 3D printed prosthetic limb, using arduino output to motors in joint locations on the arm. (If the arm can’t happen, create a game interface using the same signals to control a character on screen.) This will demonstrate some of the principles used in myoelectric prosthetics today. 
