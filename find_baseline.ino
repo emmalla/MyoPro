@@ -1,4 +1,6 @@
 
+// takes 10 seconds worth of data from each rest and flex, to try and assess an accurate 
+// threshold for flex motion
 
 long[] restVals = [0,0,0,0,0,0,0,0,0,0]; // 10 trials of rest data 
 long[] flexVals  [0,0,0,0,0,0,0,0,0,0]; // 10 trials of flex data
